@@ -64,9 +64,9 @@ The developed framework can support:
 
 ## Team
 
-Anumeha Anand
-Arundhati
-Aryan Prasad
+Anumeha Anand, 
+Arundhati, 
+Aryan Prasad, 
 Lakki Kunwar
 
 **Guide:** Dr. Anil B C
